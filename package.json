@@ -1,0 +1,27 @@
+{
+  "name": "paper-scanner",
+  "version": "1.0.0",
+  "description": "find and crop paper with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/96rajabi/paper-scanner.js.git"
+  },
+  "keywords": [
+    "paper",
+    "scanner",
+    "javascript"
+  ],
+  "author": "mahdi rajabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/96rajabi/paper-scanner.js/issues"
+  },
+  "homepage": "https://github.com/96rajabi/paper-scanner.js#readme",
+  "dependencies": {
+    "colorthief": "^2.3.2"
+  }
+}
